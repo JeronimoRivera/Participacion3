@@ -111,7 +111,7 @@ class Carta:
          self.valor = valor
          self.pinta = pinta
 
-#Cree una clase CuentaBancaria que contenga los siguientes atributos: numero_cuenta, propietarios y balance. Los tres atributos se deben
+#Cree una clase CuentaBancaria queu contenga los siguientes atributos: numero_cuenta, propietarios y balance. Los tres atributos se deben
 # inicializar en el constructor con valores recibidos como parámetros.
 
 class CuentaBancaria:
